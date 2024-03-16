@@ -1,4 +1,3 @@
-
 <?php
 
 session_start();
@@ -8,8 +7,6 @@ if(isset($_SESSION['aviso'])) {
     echo $_SESSION['aviso'];
     $_SESSION['aviso'] = '';
 }
-
-
 ?>
 
 <a href="apagar.php">Apagar Cookie</a>

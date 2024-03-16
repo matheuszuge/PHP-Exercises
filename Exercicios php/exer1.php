@@ -47,7 +47,6 @@ function verificarPalindromo($palavra) {
     return $limpaPalavra === strrev($limpaPalavra);
 
 }
-
 $palavra1 = "arara";
 $palavra2 = "Amo a Roma";
 $palavra3 = "php";
@@ -274,21 +273,6 @@ $lista = [
 ];
 $maior = max($lista);
 echo $maior; //função vai passar o maior numero dentro do array
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ?>
 
