@@ -21,4 +21,4 @@ O repositório está estruturado da seguinte forma:
 - **exercicio8.php**: Exemplo de como contar o número de caracteres em uma string.
 - **exercicio9.php**: Exemplo de como encontrar o maior número em um array.
 - **loops.php**: Exemplos de uso de loops em PHP.
-
+- **exercicios de validação:** compõe um sistema simples de formulário de validação em PHP, que utiliza cookies e sessões para armazenar e exibir informações do usuário.
