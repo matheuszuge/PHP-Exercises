@@ -1,5 +1,4 @@
-<h1>Repositorio de resolução de exercicios basicos em php</h1>
-# Roadmap Básico de PHP
+<h1>Roadmap Básico de PHP</h1>
 
 Este é um roadmap básico de aprendizado em PHP, organizado em pastas e arquivos.
 
