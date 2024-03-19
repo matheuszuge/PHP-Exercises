@@ -1,6 +1,7 @@
 <h1>Roadmap Básico de PHP</h1>
 
-Este é um roadmap básico de aprendizado em PHP, organizado em pastas e arquivos.
+Este é um roadmap básico de aprendizado em PHP, construido por mim, com material de diversos cursos diferentes. 
+Feito somente para estudos proprios. 
 
 ## Estrutura do Projeto
 
