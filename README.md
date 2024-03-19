@@ -1,24 +1,33 @@
 <h1>Repositorio de resolução de exercicios basicos em php</h1>
-# Exercícios Simples de PHP
+# Roadmap Básico de PHP
 
-Este repositório contém uma coleção de exercícios simples em PHP, adequados para iniciantes que desejam praticar conceitos básicos da linguagem.
+Este é um roadmap básico de aprendizado em PHP, organizado em pastas e arquivos.
 
-## Descrição
+## Estrutura do Projeto
 
-Os exercícios aqui presentes abrangem uma variedade de tópicos, desde operadores aritméticos até loops, funções e manipulação de strings. Cada arquivo PHP contém uma descrição do exercício e uma solução correspondente.
+- **01_Sintaxe.php**: Contém informações sobre a sintaxe básica do PHP.
+- **00_syntax.php**: Aborda conceitos preliminares sobre a sintaxe da linguagem.
+- **02_variable.php**: Explora variáveis em PHP.
+- **03_string.php**: Tópicos relacionados a strings em PHP.
+- **04_arrays.php**: Informações sobre arrays em PHP.
+- **05_conditionals.php**: Instruções condicionais em PHP.
+- **06_loops.php**: Loops em PHP.
+- **07_function.php**: Conceitos relacionados a funções em PHP.
 
-## Estrutura do Repositório
+## Exercícios em PHP
 
-O repositório está estruturado da seguinte forma:
+- **02_Exercicios_php**: Pasta contendo exercícios práticos de PHP.
+  - **00_exer.php**
+  - **01_exer.php**
+  - **02_exer.php**
+  - **03_exer.php**
 
-- **exercicio1.php**: Exemplo de como imprimir "Olá, mundo!" na tela.
-- **exercicio2.php**: Exemplo de como imprimir uma mensagem personalizada com uma variável.
-- **exercicio3.php**: Exemplo de como calcular a soma dos números de 1 a 10.
-- **exercicio4.php**: Exemplo de como verificar se um número é par ou ímpar.
-- **exercicio5.php**: Exemplo de como converter temperatura de Celsius para Fahrenheit.
-- **exercicio6.php**: Exemplo de como substituir números por "Fizz", "Buzz" ou "FizzBuzz" em um intervalo de números.
-- **exercicio7.php**: Exemplo de como verificar se um número é positivo, negativo ou zero.
-- **exercicio8.php**: Exemplo de como contar o número de caracteres em uma string.
-- **exercicio9.php**: Exemplo de como encontrar o maior número em um array.
-- **loops.php**: Exemplos de uso de loops em PHP.
-- **exercicios de validação:** compõe um sistema simples de formulário de validação em PHP, que utiliza cookies e sessões para armazenar e exibir informações do usuário.
+## Validação de Formulário
+
+- **03_Formulario-validação**: Pasta contendo arquivos relacionados a validação de formulários.
+  - **apagar.php**
+  - **header.php**
+  - **index.php**
+  - **recebedor.php**
+
+Cada arquivo contém informações relevantes sobre o tópico abordado ou exercícios práticos para praticar os conceitos aprendidos.
