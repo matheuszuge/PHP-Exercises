@@ -3,7 +3,7 @@
 Este é um roadmap básico de aprendizado em PHP, construido por mim, com material de diversos cursos diferentes. 
 Feito somente para estudos proprios. 
 
-## Estrutura do Projeto
+## Sintaxe PHP
 
 - **01_Sintaxe.php**: Contém informações sobre a sintaxe básica do PHP.
 - **00_syntax.php**: Aborda conceitos preliminares sobre a sintaxe da linguagem.
