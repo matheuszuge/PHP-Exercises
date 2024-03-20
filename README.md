@@ -29,5 +29,10 @@ Feito somente para estudos proprios.
   - **header.php**
   - **index.php**
   - **recebedor.php**
+ 
+  ## Material
+- **https://www.w3schools.com**
+- **https://www.php.net/manual/pt_BR/index.php**
+- **https://alunos.b7web.com.br**
 
 Cada arquivo contém informações relevantes sobre o tópico abordado ou exercícios práticos para praticar os conceitos aprendidos.
