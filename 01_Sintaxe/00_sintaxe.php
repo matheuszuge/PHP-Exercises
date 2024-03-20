@@ -1,6 +1,7 @@
 
 <?php
-//Um script PHP é executado no servidor e o resultado HTML simples é enviado de volta ao navegador.
+//Um script PHP é executado no servidor e o resultado HTML 
+//simples é enviado de volta ao navegador.
 
 /*
 Sintaxe PHP Básica
