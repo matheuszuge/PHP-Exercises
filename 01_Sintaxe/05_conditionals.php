@@ -7,10 +7,10 @@ para condições diferentes. Você pode usar instruções condicionais em seu c�
 Em PHP temos as seguintes instruções condicionais:
 
 ifinstrução - executa algum código se uma condição for verdadeira
-if...elseinstrução - executa algum código se uma condição 
+if...else instrução - executa algum código se uma condição 
 for verdadeira e outro código se essa condição for falsa
-if...elseif...elseinstrução - executa códigos diferentes para mais de duas condições
-switchinstrução - seleciona um dos muitos blocos de código a serem executados */
+if...elseif...else instrução - executa códigos diferentes para mais de duas condições
+switch instrução - seleciona um dos muitos blocos de código a serem executados */
 
 /* PHP - A instrução if
 A ifinstrução executa algum código se uma condição for verdadeira.
@@ -64,7 +64,7 @@ if ($a == 2 || $a == 3 || $a == 4 || $a == 5 || $a == 6 || $a == 7) {
     echo "$a is a number between 2 and 7";
 }
 /*PHP - A instrução if...else
-A if...elseinstrução executa algum código se uma condição for verdadeira e
+A if...else instrução executa algum código se uma condição for verdadeira e
  outro código se essa condição for falsa.
 
 Sintaxe*/
@@ -87,7 +87,7 @@ if ($t < "20") {
 }
 
 /*PHP - A instrução if...elseif...else
-A if...elseif...elseinstrução executa códigos diferentes para mais de duas condições.
+A if...elseif...else instrução executa códigos diferentes para mais de duas condições.
 
 Sintaxe*/
 if (condition) {

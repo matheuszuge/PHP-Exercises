@@ -21,7 +21,6 @@ if($nome && $email) {
 } else {
     $_SESSION['aviso'] = 'preencha os itens corretament!';
 
-
    header("location: index.php");
    exit;
 }
