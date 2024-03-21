@@ -89,8 +89,8 @@ function operacao (n1) {
             return echo ($num) "é igual a zero";
         }
     default: echo ($num) "é negativo";
-    }
 }
+
 
 echo operacao(7);
 
