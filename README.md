@@ -29,7 +29,11 @@ Feito somente para estudos proprios.
   - **header.php**
   - **index.php**
   - **recebedor.php**
- 
+
+## Leitura de Documento Externo
+
+## Manipulação de Arrays
+
   ## Material
 - **https://www.w3schools.com**
 - **https://www.php.net/manual/pt_BR/index.php**
