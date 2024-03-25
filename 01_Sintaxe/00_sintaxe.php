@@ -83,7 +83,8 @@ EcHo "Hello World!<br>";
 /* ----------------------------- tipos de dados -------------------------*/
 
 /*Tipos de dados PHP
-Variáveis ​​podem armazenar dados de diferentes tipos, e diferentes tipos de dados podem fazer coisas diferentes.
+Variáveis ​​podem armazenar dados de diferentes tipos, e diferentes tipos de dados
+ podem fazer coisas diferentes.
 
 PHP suporta os seguintes tipos de dados:
 
@@ -118,16 +119,20 @@ Regras para números inteiros:
 Um número inteiro deve ter pelo menos um dígito
 Um número inteiro não deve ter ponto decimal
 Um número inteiro pode ser positivo ou negativo
-Os números inteiros podem ser especificados em: notação decimal (base 10), hexadecimal (base 16), octal (base 8) ou binária (base 2).
-No exemplo a seguir $xé um número inteiro. A função PHP var_dump() retorna o tipo e o valor dos dados:*/
+Os números inteiros podem ser especificados em: notação decimal (base 10), 
+hexadecimal (base 16), octal (base 8) ou binária (base 2).No exemplo a seguir
+$xé um número inteiro. A função PHP var_dump() retorna o tipo 
+e o valor dos dados:*/
 
 $x = 5985;
 var_dump($x);
 
 /*Float PHP
-Um float (número de ponto flutuante) é um número com uma vírgula decimal ou um número na forma exponencial.
+Um float (número de ponto flutuante) é um número com uma vírgula decimal ou um 
+número na forma exponencial.
 
-No exemplo a seguir $xestá um float. A função PHP var_dump() retorna o tipo e o valor dos dados:*/
+No exemplo a seguir $xestá um float. A função PHP var_dump() retorna o tipo e 
+o valor dos dados:*/
 
 $x = 10.365;
 var_dump($x);
@@ -141,7 +146,8 @@ var_dump($x);
 //Matriz PHP (array)
 /*Uma matriz armazena vários valores em uma única variável.
 
-No exemplo a seguir $carsestá uma matriz. A função PHP var_dump() retorna o tipo e o valor dos dados:*/
+No exemplo a seguir $carsestá uma matriz. A função PHP var_dump() retorna o tipo
+e o valor dos dados:*/
 
 $cars = array("Volvo","BMW","Toyota");
 //Ou
@@ -158,14 +164,17 @@ var_dump($cars);
 
 Uma classe é um modelo para objetos e um objeto é uma instância de uma classe.
 
-Quando os objetos individuais são criados, eles herdam todas as propriedades e comportamentos da classe, 
-mas cada objeto terá valores diferentes para as propriedades.
-
-Vamos supor que temos uma classe chamada Carro que pode ter propriedades como modelo, cor, etc. 
-Podemos definir variáveis ​​como $modelo, $color e assim por diante, para armazenar os valores dessas propriedades.
-
-Quando os objetos individuais (Volvo, BMW, Toyota, etc.) são criados, eles herdam todas as propriedades e 
+Quando os objetos individuais são criados, eles herdam todas as propriedades e 
 comportamentos da classe, mas cada objeto terá valores diferentes para as propriedades.
+
+Vamos supor que temos uma classe chamada Carro que pode ter propriedades como
+ modelo, cor, etc. 
+Podemos definir variáveis ​​como $modelo, $color e assim por diante, para armazenar
+ os valores dessas propriedades.
+
+Quando os objetos individuais (Volvo, BMW, Toyota, etc.) são criados, eles herdam
+todas as propriedades e comportamentos da classe, mas cada objeto terá valores 
+diferentes para as propriedades.
 
 Se você criar uma __construct() função, o PHP chamará essa função automaticamente 
 quando você criar um objeto a partir de uma classe.*/ 

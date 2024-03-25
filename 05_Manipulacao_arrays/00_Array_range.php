@@ -42,4 +42,9 @@ $array = [
 $chaves = array_keys($array); //cria um novo array somente com as chaves do array. 
 $values = array_values($array); //cria um novo array somente com os valores do array. 
 
+//----------------- Desconstrução de array ------------
 
+$arry = ['matheus', 90, 'café', 'azul'];
+
+lista($nome, $idade, $bebida, $cor) = $array;
+echo $nome." tem ".$idade." anos e gosta de tomar ".$bebida." com a cor ".$cor;
