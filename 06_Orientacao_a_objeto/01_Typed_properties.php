@@ -23,3 +23,4 @@ $post1->aumentarLike();
 
 $post2 =  new post();
 $post2->aumentarLike();
+//

@@ -26,7 +26,6 @@
     $resultado = soma($n1 + $n2);
     echo $resultado;
 /*  
-
 Escreva um script PHP que imprima "Olá, mundo!" na tela.
 
 */

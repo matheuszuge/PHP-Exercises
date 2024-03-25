@@ -70,7 +70,7 @@ if (in_array($_FILES['arquivo']['type'], $permitidos)) {
 
 
 
-
+//
 
 
 

@@ -82,7 +82,6 @@ echo strtolower($x);
 
 //Substituir sequência
 //A str_replace()função PHP substitui alguns caracteres por outros caracteres em uma string.
-
 //Substitua o texto "Mundo" por "Dolly":
 
 $x = "Hello World!";

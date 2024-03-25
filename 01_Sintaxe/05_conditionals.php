@@ -41,7 +41,6 @@ if ($t < 20) {
 
 /*Operadores lógicos
 Para verificar mais de uma condição, podemos utilizar operadores lógicos, como o &&operador:
-
 Exemplo
 Verifique se $aé maior que $bE se $aé menor que $c:*/
 

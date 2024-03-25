@@ -11,7 +11,7 @@ $paises = array=[
     "brasil", 
     "venezuela"]
 
-//b) Utilize um loop for para imprimir cada país do array.
+//b) Utilize um loop for para imprimir cada país do array..
 
 $paises = array=["gales", 
     "frança", 

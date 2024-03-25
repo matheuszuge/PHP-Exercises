@@ -5,7 +5,6 @@ The switch statement is used to perform different actions based on different con
 
 The PHP switch Statement
 Use the switch statement to select one of many blocks of code to be executed.
-
 Syntax*/
 
 switch (expression) {

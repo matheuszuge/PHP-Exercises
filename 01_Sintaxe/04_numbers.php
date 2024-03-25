@@ -13,7 +13,6 @@ Float
 Number Strings
 
 Além disso, o PHP possui mais dois tipos de dados usados ​​para números:
-
 Infinity
 NaN
 

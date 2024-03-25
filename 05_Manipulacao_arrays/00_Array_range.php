@@ -47,4 +47,4 @@ $values = array_values($array); //cria um novo array somente com os valores do a
 $arry = ['matheus', 90, 'café', 'azul'];
 
 lista($nome, $idade, $bebida, $cor) = $array;
-echo $nome." tem ".$idade." anos e gosta de tomar ".$bebida." com a cor ".$cor;
+echo $nome." tem ".$idade." anos e gosta de tomar ".$bebida." com a cor ".$cor;//

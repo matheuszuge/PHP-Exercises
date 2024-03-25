@@ -178,7 +178,6 @@ diferentes para as propriedades.
 
 Se você criar uma __construct() função, o PHP chamará essa função automaticamente 
 quando você criar um objeto a partir de uma classe.*/ 
-
 class Car {
     public $color;
     public $model;

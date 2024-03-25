@@ -10,7 +10,6 @@ suas próprias funções personalizadas.
 Funções integradas do PHP
 O PHP possui mais de 1.000 funções integradas que podem ser chamadas diretamente, 
 de dentro de um script, para executar uma tarefa específica.
-
 Por favor, verifique nossa referência de PHP para uma visão geral
  completa das funções integradas do PHP .
 

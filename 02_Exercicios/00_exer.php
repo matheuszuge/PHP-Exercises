@@ -132,8 +132,7 @@ $cores = [
 
 /*b) Use um loop foreach para imprimir cada cor do array.
 //Pergunta 1: Manipulação de Strings
-a) Dada a string $fruta = "maça", use a função strtoupper para converter a string para maiúsculas.
-*/
+a) Dada a string $fruta = "maça", use a função strtoupper para converter a string para maiúsculas.*/
 $fruta  = "maça";
 $limpaPalavra = strtoupper($fruta);
 

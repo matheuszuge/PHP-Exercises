@@ -28,7 +28,7 @@ function verificaPar($num){
 
 echo verificaPar(10)
 
-//Desenvolva um programa PHP que calcule o fatorial de um número.
+//Desenvolva um programa PHP que calcule o fatorial de um número.//
 
 $numero = 10;
 $resultado = 1;

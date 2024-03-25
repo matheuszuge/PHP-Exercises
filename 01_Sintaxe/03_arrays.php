@@ -17,7 +17,7 @@ A verdadeira força dos arrays PHP são as funções de array integradas,
 como a count() função para contar itens do array:
 
 Exemplo
-Quantos itens existem no $carsarray:*/
+Quantos itens existem no $carsarray:*//
 
 $cars = array("Volvo", "BMW", "Toyota");
 echo count($cars);
