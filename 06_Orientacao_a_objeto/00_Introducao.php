@@ -1,22 +1,37 @@
 <?php
 
+//------- definição de classe post ----//
+
 Class post {
-    public $likes = 0;
+    private $likes = 0;
     public $comments = [];
     public $author;
 }
 
 $post1 = new post();
-$post1->likes = 3;
+$post2 =  new post();
+
+
+//------ criação de metodos -------//
+
+Class post {
+    //atributos
+    private $likes = 0;
+    public $comments = [];
+    public $author;
+
+    //Metodo
+    public function aumentarLike() {
+        $this->likes++;
+    }
+}
+
+$post1 = new post();
+$post1->aumentarLike();
+
 
 $post2 =  new post();
-$post2->likesv= 10;
-
-
-
-
-
-
+$post2->aumentarLike();
 
 
 
