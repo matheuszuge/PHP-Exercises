@@ -1,26 +1,29 @@
 <?php
 
-/*Podemos utilizar typed properties(propriedades tipadas) 
-para poder proteger as propriedades para poder receber 
-somente um tipo de informação */
+// Definindo a classe "Post"
+class Post {
+    // Propriedade tipada para armazenar o número de likes (somente inteiros são permitidos)
+    public int $likes = 0; 
+    
+    // Propriedade tipada para armazenar os comentários (somente arrays são permitidos)
+    public array $comments = []; 
+    
+    // Propriedade tipada para armazenar o autor do post (somente strings são permitidas)
+    public string $author; 
 
-//Exemplo anterior
-Class post {
-    //atributos
-    public int $likes = 0; //Propriedade so receberá valores inteiros
-    public array $comments = []; // recebe somente array
-    public string $author; // recebe somente string
-
-    //Metodo
+    // Método para aumentar o número de likes
     public function aumentarLike() {
+        // Incrementando o número de likes
         $this->likes++;
     }
 }
 
-$post1 = new post();
+// Criando uma instância da classe "Post"
+$post1 = new Post();
+// Chamando o método para aumentar os likes do post1
 $post1->aumentarLike();
 
-
-$post2 =  new post();
+// Criando outra instância da classe "Post"
+$post2 =  new Post();
+// Chamando o método para aumentar os likes do post2
 $post2->aumentarLike();
-//

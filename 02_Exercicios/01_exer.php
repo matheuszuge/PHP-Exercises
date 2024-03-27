@@ -9,7 +9,8 @@ $paises = array=[
     "frança", 
     "italia", 
     "brasil", 
-    "venezuela"]
+    "venezuela", 
+]
 
 //b) Utilize um loop for para imprimir cada país do array..
 
