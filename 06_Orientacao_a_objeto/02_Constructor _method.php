@@ -7,7 +7,8 @@ Class post {
 
     /*quando ele é criado, será executado sempre que 
     for criado um objeto novo */
-    public function __construct() { 
+    public function __construct($qtLikes = 0) { 
+        this->likes = $qtLikes;
         echo 'teste';
     }
 
@@ -17,10 +18,7 @@ Class post {
     }
 }
 
-$post1 = new post();
-$post1 ->likes = 20;
-
-
+$post1 = new post(25);
 $post2 =  new post();
 
-//
+echo "post1 = ".$post1->likes."<br/>"
