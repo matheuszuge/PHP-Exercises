@@ -21,7 +21,7 @@ $paises = array=["gales",
     "venezuela"
 ];
 foreach ($paises as $pai) {
-    echo $pai."br"
+    echo $pai."br";
 }
 //Exercício 2: Estruturas de Controle
 //a) Crie uma função chamada verificarPar que aceita um número como parâmetro e imprime "Par" se o número for par e "Ímpar" se for ímpar.

@@ -11,7 +11,6 @@ class Matematica {
     public static function $nome;
 
 }
-
 // Para utilizar o método estático, basta referenciar a classe
 // e chamar o método diretamente, sem criar uma instância da classe
 echo Matematica::somar(20, 10); // Saída: 30

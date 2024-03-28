@@ -17,6 +17,7 @@ class Post {
     // Método para obter o autor do post
     public function getAuthor() {
         return $this->author;
+        
     } 
 
     // Método construtor da classe
