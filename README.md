@@ -34,7 +34,7 @@ Feito somente para estudos proprios.
 
 ## Manipulação de Arrays
 
-## Orientacao A objetos
+## Orientação A objetos
 
   ## Material
 - **https://www.w3schools.com**
