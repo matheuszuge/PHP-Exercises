@@ -1,13 +1,13 @@
 
 <?php
-//Um script PHP é executado no servidor e o resultado HTML 
-//simples é enviado de volta ao navegador.
+// Um script PHP é executado no servidor e o resultado HTML 
+// simples é enviado de volta ao navegador.
 
 /*
 Sintaxe PHP Básica
 Um script PHP pode ser colocado em qualquer lugar do documento.
 
-Um script PHP começa <?phpe termina com ?>:
+Um script PHP começa <?php e termina com ?>:
 */
 
 // PHP code goes here
@@ -25,15 +25,15 @@ echo "Hello World!";
 /* This is a
 multi-line comment */
 
-/* A extensão de arquivo padrão para arquivos PHP é " .php".
+/* A extensão de arquivo padrão para arquivos PHP é ".php".
 
 Um arquivo PHP normalmente contém tags HTML e algum código de script PHP.
 
 Abaixo, temos um exemplo de arquivo PHP simples, com um script PHP que usa uma função PHP 
-integrada " echo" para gerar o texto "Hello World!" em uma página da web:
+integrada "echo" para gerar o texto "Hello World!" em uma página da web:
 
 ExemploObtenha seu próprio servidor PHP
-Um arquivo simples .phpcom código HTML e código PHP:
+Um arquivo simples .php com código HTML e código PHP:
 */
 
 ?>
