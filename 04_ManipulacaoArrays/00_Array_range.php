@@ -13,7 +13,7 @@ foreach ($array as $item) {
     echo $item."<br/>";
 }
 
-//------------ KEY_EXISTS ---------------
+//------------ KEY_EXISTS --------------
 
 // Serve para verificar se uma chave existe em um array associativo
 $array = [
