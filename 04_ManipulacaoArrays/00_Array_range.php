@@ -14,7 +14,6 @@ foreach ($array as $item) {
 }
 
 //------------ KEY_EXISTS --------------
-
 // Serve para verificar se uma chave existe em um array associativo
 $array = [
     'nome' => 'matheus',
@@ -45,9 +44,9 @@ $chaves = array_keys($array); // Cria um novo array contendo somente as chaves d
 $values = array_values($array); // Cria um novo array contendo somente os valores do array original
 
 //----------------- Desconstrução de array ------------
-
 // Desconstrói o array em variáveis individuais
 $arry = ['matheus', 90, 'café', 'azul'];
 
 list($nome, $idade, $bebida, $cor) = $array;
 echo $nome." tem ".$idade." anos e gosta de tomar ".$bebida." com a cor ".$cor;
+?>
