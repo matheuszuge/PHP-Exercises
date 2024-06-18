@@ -94,8 +94,7 @@ A condição não precisa ser um contador, pode ser o status de uma operação
 A declaração de ruptura
 Com a breakafirmação podemos parar o loop mesmo que a condição ainda seja verdadeira:*/
 
-/*Exemplo
-Pare o loop quando $ifor 3:*/
+/*Pare o loop quando $ifor 3:*/
 
 $i = 1;
 while ($i < 6) {
